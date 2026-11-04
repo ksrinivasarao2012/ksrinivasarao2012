@@ -10,7 +10,6 @@
   <a href="https://ksrinivasarao2012.github.io"><img src="https://img.shields.io/badge/Portfolio-0b1020?style=for-the-badge&logo=githubpages&logoColor=38BDF8" /></a>
   <a href="https://www.linkedin.com/in/kommanasrinivasarao/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:raokommanasrinivasa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ksrinivasarao2012&style=for-the-badge&color=6366f1&label=Profile+views" />
 </p>
 
 ---
@@ -95,18 +94,3 @@ Head-to-head study of **constrained decoding vs QLoRA fine-tuning** for reliable
 | **LLMs & Agents** | LangGraph · RAG · Qdrant · Hugging Face · QLoRA · Constrained decoding |
 | **ML & RL** | PyTorch · TensorFlow · Scikit-learn · Stable Baselines3 · PPO · PettingZoo |
 | **Data & Apps** | Pandas · NumPy · Streamlit · FastAPI · dbt |
-
----
-
-## 📊 GitHub activity
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ksrinivasarao2012&show_icons=true&hide_border=true&bg_color=0b1020&title_color=38BDF8&icon_color=a78bfa&text_color=cbd5e1" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksrinivasarao2012&layout=compact&hide_border=true&bg_color=0b1020&title_color=38BDF8&text_color=cbd5e1" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ksrinivasarao2012&background=0b1020&border=0b1020&ring=38BDF8&fire=a78bfa&currStreakLabel=38BDF8&sideLabels=cbd5e1&dates=94a3b8&currStreakNum=f8fafc&sideNums=f8fafc" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksrinivasarao2012&bg_color=0b1020&color=cbd5e1&line=38BDF8&point=a78bfa&area=true&hide_border=true" width="95%" />
-</p>
